@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kunal17leon@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/dghI5](shorturl.at/dghI5)
+- 📄 Know about my experiences bit.ly/kunal_singh_resume
 
 - ⚡ Fun fact **I think I'm funny.**
 
