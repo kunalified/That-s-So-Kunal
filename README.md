@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kunal Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **an android app**
+- 🔭 I’m currently working on **a java project**
 
-- 🌱 I’m currently learning **xml**
+- 🌱 I’m currently learning **springboot**
 
 - 📫 How to reach me **kunal17leon@gmail.com**
 
